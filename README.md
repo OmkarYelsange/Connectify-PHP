@@ -1,4 +1,4 @@
-# 💬 RealTimeChatApp-PHP-MYSQL
+# 💬 Connectify-PHP
 
 ### Real-Time Chat Application using PHP & MySQL
 
