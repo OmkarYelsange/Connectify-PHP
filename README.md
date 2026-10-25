@@ -75,7 +75,7 @@ Install the following:
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Connectify-PHP.git
+git clone https://github.com/OmkarYelsange/Connectify-PHP.git
 cd Connectify-PHP
 ```
 
